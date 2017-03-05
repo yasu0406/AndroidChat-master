@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581362434657",
+    "firebase_url": "https://message-dbcf6.firebaseio.com",
+    "project_id": "message-dbcf6",
+    "storage_bucket": "message-dbcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581362434657:android:22d76935dc8bf743",
+        "android_client_info": {
+          "package_name": "com.firebase.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581362434657-ng3alq6vb4oilch8o9m6vssok45qo1ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5GmP-hfXkAzKox2GuvsV5ez0bppRwc9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
